@@ -1,3 +1,7 @@
+# Boas vindas ao projeto React Testing Library
+![image](https://user-images.githubusercontent.com/80549950/145634838-d61bf61d-2eb7-434e-88bb-7b5834005637.png)
+
+
 # Onde ficam os testes e como rodar os testes
 Os testes desenvolvidos podem ser vistos dentro da pasta src >> tests
 
